@@ -1,0 +1,11 @@
+USE ClubcDb
+
+DROP TABLE tblClubcWaring
+GO
+
+CREATE TABLE tblClubcWaring
+(
+	Name NVARCHAR(50) NOT NULL PRIMARY KEY,
+	Waring_LV1 INT NOT NULL CHECK(Waring_LV1 >= 0) DEFAULT 0,
+	Waring_LV2 INT NOT NULL CHECK(Waring_LV2 <= 3 AND Waring_LV2 >= 0) DEFAULT 0
+)

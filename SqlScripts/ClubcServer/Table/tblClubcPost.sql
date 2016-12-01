@@ -1,0 +1,13 @@
+USE ClubcDb
+
+--DROP TABLE tblClubcPost
+GO
+
+CREATE TABLE tblClubcPost
+(
+	PostID INT IDENTITY(1, 1) NOT NULL PRIMARY KEY,
+	Writer NVARCHAR(50) NOT NULL,
+	PostLevel NVARCHAR(50) NOT NULL REFERENCES tblClubcUserClass(Descript),
+	PostTitle NVARCHAR(50) NOT NULL UNIQUE,
+	Writing NVARCHAR(MAX) NOT NULL
+);

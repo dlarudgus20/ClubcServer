@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="d462235f-a038-4d1e-aeab-8f23744ff621" Title="dnClubcSvrLib Namespace" Url="html/094d7c3d-ee38-3c80-b858-ebb71583d499.htm">
+    <HelpTOCNode Id="5f235232-9560-4029-8a97-3836e9391607" Title="ClubcChatSock Class" Url="html/2c92586f-6b6b-8869-0557-ead35826bf4a.htm">
+      <HelpTOCNode Title="ClubcChatSock Members" Url="html/b829e9f9-a8af-4753-3c32-f3650aa40e65.htm" />
+      <HelpTOCNode Id="e409fb5c-a9e7-4ad1-9aa9-fec50977058e" Title="ClubcChatSock Constructor " Url="html/8f999f53-176f-ce53-8a48-ae8b2f736cc7.htm">
+        <HelpTOCNode Title="ClubcChatSock Constructor " Url="html/c391e2cf-6a1c-5baa-dc6b-10e601ff950d.htm" />
+        <HelpTOCNode Title="ClubcChatSock Constructor (ClubcChatSock.CloseDele, ClubcChatSock.ConnectDele, ClubcChatSock.ReceiveDele, ClubcChatSock.EventDele, String, String, String)" Url="html/a08e4741-354d-840b-8d2c-82f4bf54b68f.htm" />
+        <HelpTOCNode Title="ClubcChatSock Constructor (ClubcChatSock.CloseDele, ClubcChatSock.ConnectDele, ClubcChatSock.ReceiveDele, ClubcChatSock.EventDele, String, String, String, Object)" Url="html/1c1515db-53ef-e051-c412-9b69c5be0e49.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="37e90b85-9a69-4169-b1e9-404daf3db94c" Title="ClubcChatSock Fields" Url="html/6ca2de69-8aa4-472f-578c-56d7ed93cd4b.htm">
+        <HelpTOCNode Title="MaxBuffer Field" Url="html/8dd7a13f-59cd-1d2d-87d4-d273a2952631.htm" />
+        <HelpTOCNode Title="UserData Field" Url="html/aef6320a-1162-a0a0-3a34-5d4942987c72.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c7a6485b-45c6-4534-b762-68eaa0dcfb4f" Title="ClubcChatSock Methods" Url="html/75ad71c2-2345-c5ab-fd76-344ead13ee33.htm">
+        <HelpTOCNode Id="64f30e81-f056-4a63-b383-1568f7e6cc76" Title="Create Method " Url="html/36767909-d630-56fe-15bb-0dbfe287aa10.htm">
+          <HelpTOCNode Title="Create Method (String, String, String)" Url="html/f325b075-8c51-5576-3f01-be9851033c96.htm" />
+          <HelpTOCNode Title="Create Method (String, String, String, Object)" Url="html/fafca8ec-f7f2-315a-b6f7-977c3e9b0b6c.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Dispose Method " Url="html/ea07ad9e-5f14-97f3-2dfe-9a931f939f82.htm" />
+        <HelpTOCNode Title="Finalize Method " Url="html/9c7a9c0b-e2f4-3c2c-ce39-5872945ffb0c.htm" />
+        <HelpTOCNode Title="SendString Method " Url="html/28861142-080c-daa8-b676-b967128aefff.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="512b84f8-40f3-4043-b241-285694a0c4ef" Title="ClubcChatSock Properties" Url="html/39b56ae7-c805-d82c-fb4f-d68874b53e4c.htm">
+        <HelpTOCNode Title="ConnectList Property " Url="html/59acd3fe-3366-fedb-e825-4e65bada65e0.htm" />
+        <HelpTOCNode Title="IsConnected Property " Url="html/393bd2e6-e358-40cf-4405-227b78f062d3.htm" />
+        <HelpTOCNode Title="IsInited Property " Url="html/8c5ea078-8c8a-c344-dedb-45b22c7e1f83.htm" />
+        <HelpTOCNode Title="Nickname Property " Url="html/4d8a98ba-e1d0-4d2d-f033-028648f0027b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2bdf4e65-f3ea-4c89-837d-48e3ae65d5ec" Title="ClubcChatSock Events" Url="html/30408ac1-9947-747e-17b3-10d154ac646d.htm">
+        <HelpTOCNode Title="OnClose Event" Url="html/bd5894d7-e88c-68c0-e5c8-62c7abaac62d.htm" />
+        <HelpTOCNode Title="OnConnect Event" Url="html/274e5e65-83c6-078e-95c5-d33215dc831a.htm" />
+        <HelpTOCNode Title="OnEvent Event" Url="html/c5bf6276-30fd-2c3c-fac3-0af748fd917c.htm" />
+        <HelpTOCNode Title="OnReceive Event" Url="html/cd076f17-f012-e9f1-ed4b-5f9ce6a5f2fe.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Title="ClubcChatSock.CloseDele Delegate" Url="html/adc20324-19a9-71a2-ea28-e78d604bc256.htm" />
+    <HelpTOCNode Title="ClubcChatSock.ClubcChatSockEvent Enumeration" Url="html/877c1593-4b99-375e-7e91-dfae3511815c.htm" />
+    <HelpTOCNode Title="ClubcChatSock.ConnectDele Delegate" Url="html/2322ea51-173e-222e-689c-7518edfaeeeb.htm" />
+    <HelpTOCNode Title="ClubcChatSock.EventDele Delegate" Url="html/9855d129-d33e-5dcd-2c5c-18b582ec22b5.htm" />
+    <HelpTOCNode Title="ClubcChatSock.ReceiveDele Delegate" Url="html/79844dfb-0583-c1d3-535f-8e0f653cba6c.htm" />
+  </HelpTOCNode>
+</HelpTOC>
